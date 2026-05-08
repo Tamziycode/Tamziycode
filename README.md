@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilore-afolabi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamziyafolabi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D1F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=Tamziycode&color=ff2d1f&style=for-the-badge&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D1F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://tamziy.vercel.app)
+
 
 </div>
 
@@ -279,7 +279,7 @@ Solving problems that hold up under scale — not just ones that pass test cases
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilore-afolabi)
 [![Email](https://img.shields.io/badge/Email-tamziyafolabi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamziyafolabi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF2D1F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D1F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://tamziy.vercel.app)
 
 *Open to backend and full-stack roles where real engineering problems exist.*
 
