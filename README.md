@@ -108,7 +108,7 @@ graph TD
     SC --> DB[("MySQL Database")]
     IC --> DB
     DB -->|WHERE instructor_id = ?| IC
-    API -->|Signup trigger| Email["Nodemailer SMTP"]
+    API -->|Signup trigger| Email["Resend API"]
     Email -->|32-byte token| Inbox["User Inbox"]
     Inbox -->|/verify| API
 
@@ -151,7 +151,7 @@ graph TD
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamziycode/learnova)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF2D1F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF2D1F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://learnova-omega.vercel.app)
 
 ---
 
@@ -199,7 +199,7 @@ Built for correctness under pressure. Architecture prioritises data integrity ov
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Tamziycode/library-management-api)
+[![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Tamziycode/Library_API)
 
 </td>
 </tr>
